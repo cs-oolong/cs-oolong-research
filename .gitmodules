@@ -1,0 +1,3 @@
+[submodule "forks/nnsight"]
+	path = forks/nnsight
+	url = https://github.com/ndif-team/nnsight
